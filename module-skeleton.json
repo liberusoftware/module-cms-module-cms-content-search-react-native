@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-module-cms-content-search-react-native",
+  "capabilityKey": "planned:cms:module-cms-content-search",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-module-cms-content-search-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/module-cms-content-search.md",
+  "presentationPlan": "projects/cms/react-native/module-cms-content-search.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
